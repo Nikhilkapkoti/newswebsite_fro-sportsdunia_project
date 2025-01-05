@@ -1,5 +1,5 @@
 # newswebsite_fro-sportsdunia_projectA Simple News App Made using ReactJS and NewsAPI
 
-Now run 'npm i' and then run 'npm start'
-
-Then you can go to the website at http://localhost:3000 .
+install python necessary modules
+run (run.py)file.
+activate by speak HOtwrod(jarvis,alexa) then give the commands like make phonecall,open any websites, or etc.
